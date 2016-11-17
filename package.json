@@ -1,0 +1,27 @@
+{
+  "name": "markts",
+  "version": "1.0.0",
+  "description": "Another stock market app",
+  "main": "app.js",
+  "dependencies": {
+    "request": "^2.78.0",
+    "xhr": "^2.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evonsdesigns/markts.git"
+  },
+  "keywords": [
+    "stocks"
+  ],
+  "author": "evonsdesigns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evonsdesigns/markts/issues"
+  },
+  "homepage": "https://github.com/evonsdesigns/markts#readme"
+}
