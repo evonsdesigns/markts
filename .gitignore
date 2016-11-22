@@ -1,6 +1,10 @@
 node_modules
 .vscode
 
+public/css
+public/js
+public/scripts
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
