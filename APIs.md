@@ -19,3 +19,5 @@ Retrieve by CSV
 
 Excellent Resources
 * http://finviz.com/
+* http://www.lowfloat.com/nyse/
+* http://mam.econoday.com/
